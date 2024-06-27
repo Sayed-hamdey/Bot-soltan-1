@@ -16,9 +16,9 @@ global.owner = [['201145624848', '♡:shawaza', true],
 global.suittag = ['201145624848'];
 global.prems = [''];
 
-global.packname = '☾︎ابوهايف:♡☽︎';
-global.author = 'باتشيرا';
-global.wm = 'باتشيرا<ابوهايف';
+global.packname = '☾︎shawaza:♡☽︎';
+global.author = 'shawaza-bot';
+global.wm = '```shawaza-bot```';
 global.titulowm = '☾︎ BOT-SHAWAZA ☽︎';
 global.titulowm2 = `☾︎  BOT - SHAWAZA ☽︎`
 global.igfg = '☾︎  BOT-SHAWAZA ☽︎';
